@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_!hq+(8kkg@7=2ym8f216^d(rf06-59o7%fhco)zz7cwrx6xr5
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS =['https://medai-h3p3.onrender.com','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS =['https://diabetes-prediction-zxav.onrender.com','https://*.127.0.0.1']
 
 # Application definition
 
